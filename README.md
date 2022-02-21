@@ -66,7 +66,13 @@ ICM        | 90.92%
 
 
 <img src=https://github.com/TheMostKnown/hse_hw1_meth/blob/main/images/8_cell_hist.PNG width=500/>  
-<img src=https://github.com/TheMostKnown/hse_hw1_meth/blob/main/images/epiblast_hist.PNG width=500/>  
-<img src=https://github.com/TheMostKnown/hse_hw1_meth/blob/main/images/icm_hist.PNG width=500/>  
+Можем заметить, что здесь мы имеем довольно высокую частоту 0% метилирования среди всех образцов, однако, меньше, чем у icm. Также данное распределение ближе всего к нормальному средо образцов. 
 
+<img src=https://github.com/TheMostKnown/hse_hw1_meth/blob/main/images/epiblast_hist.PNG width=500/>  
+Можем заметить, что здесь мы имеем самую высокую частоту 100% метилирования среди всех образцов. Также, данное распредение похоже на смещенное нормальное.
+
+<img src=https://github.com/TheMostKnown/hse_hw1_meth/blob/main/images/icm_hist.PNG width=500/>  
+Можем заметить, что здесь мы имеем самую высокую частоту 0% метилирования среди всех образцов. Данное распределение наверное будет даже ближе к равномерному, чем к нормальному.  
+
+В целом, можно заметить, что самая большая частота у 0% метилирования цитозинов. А также совершенно ясно, что нет никакой зависимости между уровнем метилирования цитозина и тем, на какой ступени развития сейчас находится зародыш.
 
