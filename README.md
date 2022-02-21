@@ -59,3 +59,14 @@ ICM        | 90.92%
 
 ### Subtask d  
 
+
+### Subtask e  
+
+Построим гистограммы всех образцов с помощью bedgraph и питона (код в colab-ноутбуке):
+
+
+<img src=https://github.com/TheMostKnown/hse_hw1_meth/blob/main/images/8_cell_hist.PNG width=500/>  
+<img src=https://github.com/TheMostKnown/hse_hw1_meth/blob/main/images/epiblast_hist.PNG width=500/>  
+<img src=https://github.com/TheMostKnown/hse_hw1_meth/blob/main/images/icm_hist.PNG width=500/>  
+
+
