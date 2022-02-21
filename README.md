@@ -3,6 +3,7 @@ Bioinformatics 4 semester 1 homework
 
 
 [Ссылка на google colab ноутбук](https://colab.research.google.com/drive/1IY5RFtGvdPKsypkePDJMeYafhdq1vzHt?usp=sharing)  
+Сам блокнот также можно найти во вкладке data  
 
 ## Task 1  
 
